@@ -1,0 +1,14 @@
+{
+  "name": "stringsimilarity",
+  "version": "1.0.0",
+  "description": "proyecto de prueba de libreria",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andres Reyes",
+  "license": "ISC",
+  "dependencies": {
+    "string-similarity-js": "^2.1.4"
+  }
+}

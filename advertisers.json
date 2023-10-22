@@ -1,0 +1,3066 @@
+[
+    {
+        "_id" : "63d168ba04c1930008d10cae",
+        "name" : "20th Century Studios LA"
+    },
+    {
+        "_id" : "620172af73d3260009818b43",
+        "name" : "ABBOTT"
+    },
+    {
+        "_id" : "6127dbcd576f14000914a7b9",
+        "name" : "ACCIONA"
+    },
+    {
+        "_id" : "64595de0b97a4e0008f712d6",
+        "name" : "ADEN University"
+    },
+    {
+        "_id" : "63ce819259c2c700085021d9",
+        "name" : "ADMINISTRADORA DE FONDOS DE PENSIONES MODELO S A."
+    },
+    {
+        "_id" : "637698cf2698d600083455b6",
+        "name" : "AFP CAPITAL"
+    },
+    {
+        "_id" : "64c2e62549efca0008183d97",
+        "name" : "AFP Capital"
+    },
+    {
+        "_id" : "623e451c65434f0009b8913a",
+        "name" : "AFP HABITAT"
+    },
+    {
+        "_id" : "6434835bbe72040008cd1741",
+        "name" : "AFP Habitat"
+    },
+    {
+        "_id" : "637b9b3d9d9a480008280c1e",
+        "name" : "AGROSUPER"
+    },
+    {
+        "_id" : "61731ba7517d920009e10fad",
+        "name" : "AGROSUPER COMERCIALIZADORA DE ALIMENTOS LTDA."
+    },
+    {
+        "_id" : "637bc914f1989a00080fd995",
+        "name" : "AGUAS ANDINAS"
+    },
+    {
+        "_id" : "62ad0521d6a450000943027b",
+        "name" : "AIG"
+    },
+    {
+        "_id" : "6331c350913d150009c39061",
+        "name" : "ALMACEN GURU"
+    },
+    {
+        "_id" : "618d1ae34cf6ab000801e0a2",
+        "name" : "ALTA COMUNICACION LIMITADA"
+    },
+    {
+        "_id" : "6182f4ed52449a0008f993b2",
+        "name" : "ALTA COMUNICACION LIMITADA (BCI)"
+    },
+    {
+        "_id" : "628d4e043992f80008aacabb",
+        "name" : "AMAZON"
+    },
+    {
+        "_id" : "639cb5421a73ab0008a505b3",
+        "name" : "AMAZON PRIME"
+    },
+    {
+        "_id" : "63891225434bbf000851894a",
+        "name" : "AMBROSOLI"
+    },
+    {
+        "_id" : "62866015a6f99f00095ac567",
+        "name" : "AMSA"
+    },
+    {
+        "_id" : "61e70f24fc3ffe0009243fe8",
+        "name" : "ANDROMACO"
+    },
+    {
+        "_id" : "6154ec9e99d85800080e0106",
+        "name" : "ANREH"
+    },
+    {
+        "_id" : "632e673e85d0db0009b799e4",
+        "name" : "ANTOFAGASTA_MINERALS"
+    },
+    {
+        "_id" : "63c94de4b9033e0008495d16",
+        "name" : "APF MODELO"
+    },
+    {
+        "_id" : "6102184e0c742b00088950ae",
+        "name" : "APPLE"
+    },
+    {
+        "_id" : "60c278d9deeed90009146472",
+        "name" : "ARAUCO"
+    },
+    {
+        "_id" : "61a0facd43c33c0009d2851c",
+        "name" : "ARENA CHILE S.A."
+    },
+    {
+        "_id" : "61698d95e0276800081a8613",
+        "name" : "ARIZTIA"
+    },
+    {
+        "_id" : "62f6dc78d7761500094aeb21",
+        "name" : "ARIZTIA"
+    },
+    {
+        "_id" : "611fd159a250ed0008259df4",
+        "name" : "ASAP"
+    },
+    {
+        "_id" : "6222415c22af9d000927cbbf",
+        "name" : "ASIPES"
+    },
+    {
+        "_id" : "616614db87beed0009ee2d88",
+        "name" : "AUDI"
+    },
+    {
+        "_id" : "6386177e6ad0d00008b0f0dd",
+        "name" : "AUTOMOTORES GILDEMEISTER SPA"
+    },
+    {
+        "_id" : "6386174aadb2970008bae276",
+        "name" : "AUTOMOTORES GILDEMEISTER SPA"
+    },
+    {
+        "_id" : "6283da317c17960009c0c498",
+        "name" : "Abastible"
+    },
+    {
+        "_id" : "64087fe01842ff00087e3d66",
+        "name" : "Abbot"
+    },
+    {
+        "_id" : "63629c8e3e40c200081e1664",
+        "name" : "Accor"
+    },
+    {
+        "_id" : "64874328d639570008db697d",
+        "name" : "Aconcagua"
+    },
+    {
+        "_id" : "616f63c5f8f8c2000936f807",
+        "name" : "Advertiser Java update"
+    },
+    {
+        "_id" : "61771d5de565100009cd82fb",
+        "name" : "Advertiser test 25 oct"
+    },
+    {
+        "_id" : "62b084287bedea0009e20629",
+        "name" : "Aeropuerto de Tocumen"
+    },
+    {
+        "_id" : "63167ce15ee2b5000947d21f",
+        "name" : "Agencia Unica"
+    },
+    {
+        "_id" : "650dadc77248200008579d00",
+        "name" : "Agrosuper Comercializadora de Alimento Ltda"
+    },
+    {
+        "_id" : "608c2a72089f680009244733",
+        "name" : "Aguas Andinas"
+    },
+    {
+        "_id" : "61f17bc28c35780009bba17f",
+        "name" : "Aguas Cristalinas"
+    },
+    {
+        "_id" : "644be7d0db16a200091bb2fb",
+        "name" : "Aire Accounting Plus"
+    },
+    {
+        "_id" : "644be809db16a200091bb2fd",
+        "name" : "Aire Ford"
+    },
+    {
+        "_id" : "62632d79eaa181000a45e6d4",
+        "name" : "Alcaldía de Panamá"
+    },
+    {
+        "_id" : "607b748fc50bea0008f7fb9b",
+        "name" : "Ale Advertiser"
+    },
+    {
+        "_id" : "64469c5490a1cd0008156f84",
+        "name" : "Amazon"
+    },
+    {
+        "_id" : "63a5fc7c683988000820093f",
+        "name" : "Amazon Prime Video"
+    },
+    {
+        "_id" : "63ab6619ee2ede000812bcb3",
+        "name" : "Andes Films"
+    },
+    {
+        "_id" : "6317eac0750a25000909ad62",
+        "name" : "Antofagasta Minerals"
+    },
+    {
+        "_id" : "644be8a2db16a200091bb303",
+        "name" : "Anuel AA - USA Tour"
+    },
+    {
+        "_id" : "62853f72c1e9d3000991dbe2",
+        "name" : "Anunciante DAI1"
+    },
+    {
+        "_id" : "62853f87c1e9d3000991dbe3",
+        "name" : "Anunciante DAI2"
+    },
+    {
+        "_id" : "60d618ee710c9c0009bf88a0",
+        "name" : "Asedi"
+    },
+    {
+        "_id" : "645e7839a05d3d00080d2d3f",
+        "name" : "Asipes"
+    },
+    {
+        "_id" : "64ff41f1cdaee60008c51817",
+        "name" : "Asociación AFPs"
+    },
+    {
+        "_id" : "64a3472ea21f370008729455",
+        "name" : "Atlas"
+    },
+    {
+        "_id" : "642dc9259e3beb00088d3994",
+        "name" : "Atún Tuny"
+    },
+    {
+        "_id" : "6359b850bd738b000842bcf7",
+        "name" : "Auto Centro"
+    },
+    {
+        "_id" : "64fb7947ac023f0008b2c839",
+        "name" : "Autopistas Isa"
+    },
+    {
+        "_id" : "6377de4afff8030009462a70",
+        "name" : "Autoplanet"
+    },
+    {
+        "_id" : "644be875dd33180008ce3e29",
+        "name" : "Autoridad de Acueductos y Alcantarillados"
+    },
+    {
+        "_id" : "6446c54a800ae20008ed1854",
+        "name" : "Autoriza"
+    },
+    {
+        "_id" : "6286605b0f9c7b0009eb4545",
+        "name" : "Axe"
+    },
+    {
+        "_id" : "6286b442a910250009631c6c",
+        "name" : "Axon Pharma"
+    },
+    {
+        "_id" : "61b3bbccef41640009bcd793",
+        "name" : "BAC Credomatic"
+    },
+    {
+        "_id" : "63a0b685ceefcc0008226072",
+        "name" : "BAIC"
+    },
+    {
+        "_id" : "61bcdf3fdccf7b0009a10b5b",
+        "name" : "BANCO DE CHILE"
+    },
+    {
+        "_id" : "6104d59ebf77d30009d77ca1",
+        "name" : "BANCO DE CREDITO E INVERSIONES"
+    },
+    {
+        "_id" : "616855550c6b5d0009f97750",
+        "name" : "BANCO ESTADO"
+    },
+    {
+        "_id" : "6077719324873c0008cedd50",
+        "name" : "BANCO ESTADO 1"
+    },
+    {
+        "_id" : "607773394882aa000920531e",
+        "name" : "BANCO ESTADO 2"
+    },
+    {
+        "_id" : "610e858eaaf13d0009a80b30",
+        "name" : "BANMEDICA"
+    },
+    {
+        "_id" : "6125474223cbba0009fb98aa",
+        "name" : "BARCELO"
+    },
+    {
+        "_id" : "61a1706006eff800080967db",
+        "name" : "BB&M"
+    },
+    {
+        "_id" : "6065fec721b7770009317337",
+        "name" : "BBB"
+    },
+    {
+        "_id" : "6476276b4458db0008ef8e82",
+        "name" : "BBQ Chicken"
+    },
+    {
+        "_id" : "64e3ec1fa5f1c10008ac5978",
+        "name" : "BBVA"
+    },
+    {
+        "_id" : "6089881ec94ae20009a3693c",
+        "name" : "BCI"
+    },
+    {
+        "_id" : "6398dec79b66970008ad4412",
+        "name" : "BCI"
+    },
+    {
+        "_id" : "6283da80371da80008ffddc2",
+        "name" : "BDF"
+    },
+    {
+        "_id" : "61787520d78c590009c29f5a",
+        "name" : "BENETTON"
+    },
+    {
+        "_id" : "633c3e1464938800098c7297",
+        "name" : "BIce Vida"
+    },
+    {
+        "_id" : "648396f102ec300008ed9317",
+        "name" : "BNP Paribas"
+    },
+    {
+        "_id" : "618bca99b6a46900090e5484",
+        "name" : "BONIFICADO"
+    },
+    {
+        "_id" : "62bb22b6327f8600094c6d5d",
+        "name" : "BURGER KING"
+    },
+    {
+        "_id" : "64baaff8be0fed000810fcc5",
+        "name" : "Bacardi"
+    },
+    {
+        "_id" : "63320dac6ae1c800091e2ae5",
+        "name" : "Bahia Motors"
+    },
+    {
+        "_id" : "6206db9c583f820009a335aa",
+        "name" : "Balaena Panamá Inc"
+    },
+    {
+        "_id" : "6064e42e2984360008e6e080",
+        "name" : "Ballerina"
+    },
+    {
+        "_id" : "604b724c934ea70008316a20",
+        "name" : "Ballerina / Havas"
+    },
+    {
+        "_id" : "607cad6521d2e6000918c881",
+        "name" : "Banco Estado"
+    },
+    {
+        "_id" : "6192dba380623600084c4499",
+        "name" : "Banco Nacional"
+    },
+    {
+        "_id" : "61e1fc3b0edc390009720dba",
+        "name" : "Banco Santander"
+    },
+    {
+        "_id" : "60c8b4e73520f1000827a4d7",
+        "name" : "Banco Santander"
+    },
+    {
+        "_id" : "6283c9927e314e0009f9463a",
+        "name" : "Banco de Chile"
+    },
+    {
+        "_id" : "6143a16bed10710008f21176",
+        "name" : "Banco de Chile"
+    },
+    {
+        "_id" : "632b74f75950e100090d5bf4",
+        "name" : "Bata"
+    },
+    {
+        "_id" : "6272d2f12b90a30008d42f30",
+        "name" : "Bayer"
+    },
+    {
+        "_id" : "63791fce863b090008625dd2",
+        "name" : "Betcha"
+    },
+    {
+        "_id" : "637e4bfd242d5d0008c03633",
+        "name" : "Betcris"
+    },
+    {
+        "_id" : "64f7952fa68cb0000880f315",
+        "name" : "Bijou Chile"
+    },
+    {
+        "_id" : "6121221bda0757000852c808",
+        "name" : "Bimbo"
+    },
+    {
+        "_id" : "6283db02371da80008ffddc5",
+        "name" : "Bosh"
+    },
+    {
+        "_id" : "6283da07371da80008ffddc0",
+        "name" : "Bravecto"
+    },
+    {
+        "_id" : "605a95551ed4f60009427675",
+        "name" : "Buk SPA"
+    },
+    {
+        "_id" : "6286b4a31d7b3a000917a9d4",
+        "name" : "Burger King"
+    },
+    {
+        "_id" : "60f9ecb34c28d70008844ac1",
+        "name" : "CAJA DE COMPENSACION DE ASIGNACION FAMILIAR DE LOS ANDES"
+    },
+    {
+        "_id" : "61f03865055d42000990665c",
+        "name" : "CAJA LOS ANDES"
+    },
+    {
+        "_id" : "62e834017b2c8850bf828d40",
+        "name" : "CAMPAÑAS MS"
+    },
+    {
+        "_id" : "60c7b9c4113821000872f674",
+        "name" : "CANAL 13"
+    },
+    {
+        "_id" : "6127cd573955600009f9396b",
+        "name" : "CAPITALIZARME"
+    },
+    {
+        "_id" : "63166ad01741740009f0043c",
+        "name" : "CARAT CHILE S.A."
+    },
+    {
+        "_id" : "61ae6b1a657fe1000975f658",
+        "name" : "CAROZZI"
+    },
+    {
+        "_id" : "645555440706720008811b0f",
+        "name" : "CASAIDEAS"
+    },
+    {
+        "_id" : "62aca02cf5192000095a8732",
+        "name" : "CCU"
+    },
+    {
+        "_id" : "61114c5c3395de00080d40ec",
+        "name" : "CCU"
+    },
+    {
+        "_id" : "6298ff8978f37d000986b9c5",
+        "name" : "CCU"
+    },
+    {
+        "_id" : "613bf13a6db09100095e828c",
+        "name" : "CCU"
+    },
+    {
+        "_id" : "622bd3ed76ec270009d44eda",
+        "name" : "CENCOSUD"
+    },
+    {
+        "_id" : "60cb9d6f724e150008d1f8aa",
+        "name" : "CENCOSUD"
+    },
+    {
+        "_id" : "61787550d78c590009c29f5c",
+        "name" : "CENCOSUD RETAIL S.A."
+    },
+    {
+        "_id" : "611d2b084e0875000962e53c",
+        "name" : "CENCOSUD S.A."
+    },
+    {
+        "_id" : "619417edfae7850009e9db22",
+        "name" : "CERESITA"
+    },
+    {
+        "_id" : "61e5b2e9b95d3f0009065624",
+        "name" : "CERESITA"
+    },
+    {
+        "_id" : "635c307218b06a0008f55aab",
+        "name" : "CEYS"
+    },
+    {
+        "_id" : "62d863131cfb9f00098e9ca7",
+        "name" : "CIC"
+    },
+    {
+        "_id" : "64823a6f57cae000080b0168",
+        "name" : "CL-CHV-AUTOPROMO-2023"
+    },
+    {
+        "_id" : "63ee73dcd1157600089ef4a5",
+        "name" : "CLARO"
+    },
+    {
+        "_id" : "615f6b25429a8e00095dee16",
+        "name" : "CLARO CHILE S.A."
+    },
+    {
+        "_id" : "6351b877e0fb720009d0f66a",
+        "name" : "CLC"
+    },
+    {
+        "_id" : "60db9478b91d020008477ef5",
+        "name" : "CLICAR"
+    },
+    {
+        "_id" : "639ccd711fb14600086a64b8",
+        "name" : "CLINICA LAS CONDES"
+    },
+    {
+        "_id" : "611fe1e23c0f630008d64b5b",
+        "name" : "CLINICA_VETERINARIA"
+    },
+    {
+        "_id" : "64b1c4bce8c6990008110e2d",
+        "name" : "CLOS DE PIRQUE"
+    },
+    {
+        "_id" : "63dac3b003fdc30008bea2ab",
+        "name" : "CMR"
+    },
+    {
+        "_id" : "61f7dedbaa3bb30009242c03",
+        "name" : "COCA COLA"
+    },
+    {
+        "_id" : "60c02b0802a8fb00090cd484",
+        "name" : "COCA COLA"
+    },
+    {
+        "_id" : "604b789a934ea70008316a22",
+        "name" : "COCA COLA / GROUPM"
+    },
+    {
+        "_id" : "61085d76253c310008316a11",
+        "name" : "COLA_CAO"
+    },
+    {
+        "_id" : "60db3325c53ab00008224800",
+        "name" : "COLUN"
+    },
+    {
+        "_id" : "636eba562431c30008125d3f",
+        "name" : "COMUNICACION DIGITAL REDON LTDA"
+    },
+    {
+        "_id" : "60ccb5be1c85ea0008a8fbb1",
+        "name" : "CONADI"
+    },
+    {
+        "_id" : "619a65ef6013cf0009b4fae6",
+        "name" : "CONSTRUMART"
+    },
+    {
+        "_id" : "6157886c9a7880000936180b",
+        "name" : "COOP. AGRICOLA Y LECHERA LA UNION LTDA."
+    },
+    {
+        "_id" : "60f85b7bbfb7ec0008f57a7a",
+        "name" : "COPEC"
+    },
+    {
+        "_id" : "617ab185aba7810009315d88",
+        "name" : "COPEC"
+    },
+    {
+        "_id" : "6064e46f2984360008e6e083",
+        "name" : "COPEC"
+    },
+    {
+        "_id" : "63eba168d4598a000836127b",
+        "name" : "CORONA"
+    },
+    {
+        "_id" : "6297c4a400af9f0009ab7ba5",
+        "name" : "CRUZ VERDE"
+    },
+    {
+        "_id" : "63ecf1834b577700081506dc",
+        "name" : "CSN"
+    },
+    {
+        "_id" : "62d5793bed58eb00090a7dba",
+        "name" : "Cabernario"
+    },
+    {
+        "_id" : "6283d9f4371da80008ffddbf",
+        "name" : "Caffarena"
+    },
+    {
+        "_id" : "6066021d21b7770009317339",
+        "name" : "Caja de Ahorros"
+    },
+    {
+        "_id" : "63067fe420ba460009b4aa2d",
+        "name" : "Campañas Internas - Video LOOP"
+    },
+    {
+        "_id" : "643d8e38b03bc7000814bfb1",
+        "name" : "Campañas Políticas"
+    },
+    {
+        "_id" : "6229144b73cd4700090c6f45",
+        "name" : "Capital de Emociones - PP"
+    },
+    {
+        "_id" : "64f25744d5a6b70008fbf942",
+        "name" : "Car Credit Tampa"
+    },
+    {
+        "_id" : "65171538fb177800083f2d40",
+        "name" : "Carozzi"
+    },
+    {
+        "_id" : "61ddb1406925ca00095eee9f",
+        "name" : "Casas Javer"
+    },
+    {
+        "_id" : "637284406640220008c91f48",
+        "name" : "Castaño"
+    },
+    {
+        "_id" : "65087224f7cbdd000882568f",
+        "name" : "Catholic Cemeteries of the Archdiocese of Newark"
+    },
+    {
+        "_id" : "62e95d9ba5a9840009dfd310",
+        "name" : "Cemento Chagres"
+    },
+    {
+        "_id" : "6337153828b17000095af4d6",
+        "name" : "Cemento Melon"
+    },
+    {
+        "_id" : "616495cf33fe07000836d993",
+        "name" : "Cervecería"
+    },
+    {
+        "_id" : "64e7e248d4fa56000824f1cd",
+        "name" : "Changan"
+    },
+    {
+        "_id" : "64664fd42c2c0e0008f3dafa",
+        "name" : "Chrysler-DDA"
+    },
+    {
+        "_id" : "64a59c84a751810008134079",
+        "name" : "Cinemark"
+    },
+    {
+        "_id" : "62b6335d59221e00090c2fbe",
+        "name" : "Cintac"
+    },
+    {
+        "_id" : "615f6e7d429a8e00095dee29",
+        "name" : "Citroen Chile S.A.C"
+    },
+    {
+        "_id" : "60e351fde9e2480009f5da2b",
+        "name" : "Claro"
+    },
+    {
+        "_id" : "6064e3fd2984360008e6e07f",
+        "name" : "Claro"
+    },
+    {
+        "_id" : "6283dabf371da80008ffddc4",
+        "name" : "Clinica Cumbres"
+    },
+    {
+        "_id" : "63769bb6a2b0080008cb413d",
+        "name" : "Clínica Dávila"
+    },
+    {
+        "_id" : "6283db43371da80008ffddc6",
+        "name" : "Coca Cola"
+    },
+    {
+        "_id" : "645eb8c69a0a42000859b8a0",
+        "name" : "Coca Cola"
+    },
+    {
+        "_id" : "623cea24156b5e0009c10bcf",
+        "name" : "Cochez"
+    },
+    {
+        "_id" : "61e5e5af38aa9d0009a3fa9e",
+        "name" : "Codere México"
+    },
+    {
+        "_id" : "626c197dda315800082437bf",
+        "name" : "Colgate"
+    },
+    {
+        "_id" : "6452df84f40f0300082bb300",
+        "name" : "Collahuasi"
+    },
+    {
+        "_id" : "62a3aeea8c8af30009aced80",
+        "name" : "Collico"
+    },
+    {
+        "_id" : "63753ca33d710b00088f7390",
+        "name" : "Colloky"
+    },
+    {
+        "_id" : "6062402699f55b00081efd65",
+        "name" : "Colun"
+    },
+    {
+        "_id" : "60d69d601aaddd000939e88f",
+        "name" : "Colun"
+    },
+    {
+        "_id" : "62e936441fbd2200094f3d9d",
+        "name" : "Comercial Peumo"
+    },
+    {
+        "_id" : "62f53b97de272700091c7157",
+        "name" : "Comic Con"
+    },
+    {
+        "_id" : "6058fde8bd82e700083f73b2",
+        "name" : "Comunidad Feliz"
+    },
+    {
+        "_id" : "642da26580f525000858d34c",
+        "name" : "Concha y Toro"
+    },
+    {
+        "_id" : "62b610ede1f07f000902ecd2",
+        "name" : "Consalud"
+    },
+    {
+        "_id" : "6283c95743b68d0009c7f36d",
+        "name" : "Consorcio"
+    },
+    {
+        "_id" : "6390ebac691b320008a658c6",
+        "name" : "Contraloría"
+    },
+    {
+        "_id" : "62ec51af17506000099984cf",
+        "name" : "Cooperativa"
+    },
+    {
+        "_id" : "634738a916e4d70009cbdbf0",
+        "name" : "Copa Airlines"
+    },
+    {
+        "_id" : "6283c9a243b68d0009c7f36e",
+        "name" : "Copec"
+    },
+    {
+        "_id" : "61c61b4d73b78d000982e4a6",
+        "name" : "Coppel"
+    },
+    {
+        "_id" : "64837ab663a8790008034eae",
+        "name" : "Cottolengo"
+    },
+    {
+        "_id" : "6356da524f2c1d00097da48a",
+        "name" : "Cristalerias Chile"
+    },
+    {
+        "_id" : "64de9fda1a0787000814a774",
+        "name" : "Culinary"
+    },
+    {
+        "_id" : "6233b45f1dfd870009c6e3ca",
+        "name" : "Cámara de Comercio"
+    },
+    {
+        "_id" : "650c55f455cc020008ec9a6f",
+        "name" : "DBS"
+    },
+    {
+        "_id" : "6241d6b3f694ea0009b85646",
+        "name" : "DERCO"
+    },
+    {
+        "_id" : "63dd20eb52088e0008549374",
+        "name" : "DERCO"
+    },
+    {
+        "_id" : "62b39c1e2723f90008f1fef8",
+        "name" : "DERCO S.P.A."
+    },
+    {
+        "_id" : "636579666f63d700088e1330",
+        "name" : "DERMOCREAM"
+    },
+    {
+        "_id" : "63f0450a362a48000852bdd7",
+        "name" : "DESPEGAR"
+    },
+    {
+        "_id" : "626c5baf5e2e31000910fe9c",
+        "name" : "DISTRIBUIDORA PUIG"
+    },
+    {
+        "_id" : "64ecb78c9268e200086ec54d",
+        "name" : "DQ"
+    },
+    {
+        "_id" : "637ccd6d3a96cc0008c0810d",
+        "name" : "DUOC UC"
+    },
+    {
+        "_id" : "61086d0854f4ca0008aaeb13",
+        "name" : "DURACELL"
+    },
+    {
+        "_id" : "61241b553cfe040008863087",
+        "name" : "Decameron"
+    },
+    {
+        "_id" : "620bcf1ebf809b00098ceafb",
+        "name" : "Decathlon"
+    },
+    {
+        "_id" : "620ecba1a97f4600095a40c7",
+        "name" : "Delta"
+    },
+    {
+        "_id" : "62a8a1baa583a70009410897",
+        "name" : "Derco"
+    },
+    {
+        "_id" : "65149e9d66de920008ae9299",
+        "name" : "Dia Nacional de la Zalsa"
+    },
+    {
+        "_id" : "61e6d1cfd6ed950009f6b213",
+        "name" : "Digicel"
+    },
+    {
+        "_id" : "6310cb2357647300094eaa99",
+        "name" : "Disney"
+    },
+    {
+        "_id" : "62bf736566af7900098bb6ff",
+        "name" : "Division nuevos"
+    },
+    {
+        "_id" : "642da82f80f525000858d350",
+        "name" : "Doit Center"
+    },
+    {
+        "_id" : "62992b0c58d65b00091dd7f0",
+        "name" : "Dove"
+    },
+    {
+        "_id" : "634990729161dc000996fdb8",
+        "name" : "Duoc UC"
+    },
+    {
+        "_id" : "64f2414e5e19da00081f166c",
+        "name" : "EASY"
+    },
+    {
+        "_id" : "636eb46f3cfccb00083b5ce3",
+        "name" : "EASY RETAIL S.A."
+    },
+    {
+        "_id" : "6336f2f4ed68030009e718a6",
+        "name" : "ECOMSUR S.A (OXXO)"
+    },
+    {
+        "_id" : "6316117731345b0009f6757b",
+        "name" : "EDOMEX"
+    },
+    {
+        "_id" : "61683f0da7b0af00083ecad4",
+        "name" : "EL MERCURIO"
+    },
+    {
+        "_id" : "64820b8d344daf000834dbc4",
+        "name" : "EMBOTELLADORAS CHILENAS UNIDAS S.A."
+    },
+    {
+        "_id" : "64cbc1396985d90008502965",
+        "name" : "EMPRESA NACIONAL DE ENERGIA ENEX S.A."
+    },
+    {
+        "_id" : "625f3debe0a63200092f498b",
+        "name" : "EMPRESA NACIONAL DE ENERGIA ENEX S.A."
+    },
+    {
+        "_id" : "61ae534f117b9700083ff032",
+        "name" : "EMPRESAS CAROZZI S.A."
+    },
+    {
+        "_id" : "61f986308f8cce0009e2327c",
+        "name" : "ENA"
+    },
+    {
+        "_id" : "63dd72eb7751f50008879a59",
+        "name" : "ENTEL"
+    },
+    {
+        "_id" : "611a81c9c33ada00093e3c6b",
+        "name" : "ENTEL"
+    },
+    {
+        "_id" : "61732e0d3c86de0009ef74e7",
+        "name" : "ENTEL PCS TELECOMUNICACIONES S.A"
+    },
+    {
+        "_id" : "610850854a67c50008263cf0",
+        "name" : "ESSITY"
+    },
+    {
+        "_id" : "62f5291cad1c2a00094e6024",
+        "name" : "EXEED"
+    },
+    {
+        "_id" : "638e276c5b036f0008e0b3f5",
+        "name" : "Easton Outlet Mall"
+    },
+    {
+        "_id" : "6283d99f7c17960009c0c497",
+        "name" : "Easy"
+    },
+    {
+        "_id" : "62ffd364ab8e4500093505d2",
+        "name" : "El Carnicero"
+    },
+    {
+        "_id" : "6102af023c3c3800080d9ca7",
+        "name" : "El Costo"
+    },
+    {
+        "_id" : "6077739824873c0008cedd51",
+        "name" : "El Machetazo"
+    },
+    {
+        "_id" : "637243b6eab2490008b34a14",
+        "name" : "Energizer"
+    },
+    {
+        "_id" : "63efee2eb3bea800081952ab",
+        "name" : "Energy"
+    },
+    {
+        "_id" : "6283db1c7c17960009c0c49b",
+        "name" : "Entel"
+    },
+    {
+        "_id" : "64665ae664b7cc00088050e4",
+        "name" : "Espacio Urbano"
+    },
+    {
+        "_id" : "62a9f15d85045d0009bca028",
+        "name" : "Expo Lego"
+    },
+    {
+        "_id" : "64fa39cec769a80008a64f9b",
+        "name" : "Express Rent a Car"
+    },
+    {
+        "_id" : "612582c489b0d5000907db48",
+        "name" : "FALABELLA"
+    },
+    {
+        "_id" : "615772b78f01720008251db4",
+        "name" : "FALABELLA RETAIL S.A."
+    },
+    {
+        "_id" : "6474f3eb787db400081b0845",
+        "name" : "FALABELLA.COM SPA"
+    },
+    {
+        "_id" : "636572f87fe24c0008fb3762",
+        "name" : "FAMILAND"
+    },
+    {
+        "_id" : "6244b9f1bb16940009394b75",
+        "name" : "FARMACIAS AHUMADA"
+    },
+    {
+        "_id" : "644938846029cf000797de8b",
+        "name" : "FARMACIAS CRUZ VERDE S.A."
+    },
+    {
+        "_id" : "61a141f8e3d00800095aaeca",
+        "name" : "FAST FOOD CHILE S.A"
+    },
+    {
+        "_id" : "61a4c90556f69a000813c092",
+        "name" : "FILSA"
+    },
+    {
+        "_id" : "63fe4fa94fd054000814ef86",
+        "name" : "FORZA SPA"
+    },
+    {
+        "_id" : "60c40abb58c70e0009ce8237",
+        "name" : "FRACCION"
+    },
+    {
+        "_id" : "641cbdc30a5a1f0008faa576",
+        "name" : "FUCHS"
+    },
+    {
+        "_id" : "62bdfcc5eab99a000927eefd",
+        "name" : "Falabella"
+    },
+    {
+        "_id" : "6039200010270e0008dbdc2e",
+        "name" : "Falabella Retail / IGroup"
+    },
+    {
+        "_id" : "63237907a6798d00098d2195",
+        "name" : "Fenedur"
+    },
+    {
+        "_id" : "6269c65f55ee4900098f0135",
+        "name" : "Franklin Covey"
+    },
+    {
+        "_id" : "61d89936fc4daa00095ba6e5",
+        "name" : "Fundación Danilo Pérez"
+    },
+    {
+        "_id" : "61a7fe067b5b620008053fbd",
+        "name" : "Fundación IFF Panamá"
+    },
+    {
+        "_id" : "637f9f3f8cb27a00083a978a",
+        "name" : "GAC"
+    },
+    {
+        "_id" : "645d425cbf0ef300083a7a1d",
+        "name" : "GARMIN"
+    },
+    {
+        "_id" : "61e29cdb7e7b22000924684a",
+        "name" : "GARMIN"
+    },
+    {
+        "_id" : "60f85c4bbfb7ec0008f57a7b",
+        "name" : "GASCO"
+    },
+    {
+        "_id" : "612fff9ca335ac0009db29b3",
+        "name" : "GENOMMA"
+    },
+    {
+        "_id" : "645e680a175ec80008c5ea50",
+        "name" : "GILDEMEISTER"
+    },
+    {
+        "_id" : "646297cf834a8b000994532c",
+        "name" : "GIMNASIO NUEVO AMANECER SPA"
+    },
+    {
+        "_id" : "63040a9c798e4700092c6b31",
+        "name" : "GM"
+    },
+    {
+        "_id" : "63a3808a355b7a00080a41f9",
+        "name" : "GOBIERNO"
+    },
+    {
+        "_id" : "6467a08acf643b00088cc240",
+        "name" : "GOBIERNO DE CHILE"
+    },
+    {
+        "_id" : "60a44815230f9e0009dac55f",
+        "name" : "GOBIERNO DE CHILE"
+    },
+    {
+        "_id" : "6179ca6fe60eca00092a8961",
+        "name" : "GROUP M CHILE S.A.C."
+    },
+    {
+        "_id" : "6447f3f006432600086825c6",
+        "name" : "GROUPM CHILE"
+    },
+    {
+        "_id" : "64c3df32f3615d000869591b",
+        "name" : "GROWTH LAB SPA"
+    },
+    {
+        "_id" : "62865ff60f9c7b0009eb4541",
+        "name" : "GTD"
+    },
+    {
+        "_id" : "647fab923c9e0a0008d0ca63",
+        "name" : "GUAYA GUAYA DNZ"
+    },
+    {
+        "_id" : "629941f4c33a310009a3c752",
+        "name" : "Gasco"
+    },
+    {
+        "_id" : "6283daac7c17960009c0c49a",
+        "name" : "General Motors"
+    },
+    {
+        "_id" : "633b4e279aedf30009d37b95",
+        "name" : "General Motors"
+    },
+    {
+        "_id" : "6399f482b94e770008ddf5ae",
+        "name" : "Gildemeister"
+    },
+    {
+        "_id" : "60831bfd5c1e8e00093be90b",
+        "name" : "Global Bank"
+    },
+    {
+        "_id" : "634ecd2d14ad160009c17bd6",
+        "name" : "Global Promotions"
+    },
+    {
+        "_id" : "649f3cecd12ba500085c545c",
+        "name" : "Goya de Puerto Rico"
+    },
+    {
+        "_id" : "6286b426a910250009631c6a",
+        "name" : "GreatWall"
+    },
+    {
+        "_id" : "627e933423396d0008131c7f",
+        "name" : "Growth Lab"
+    },
+    {
+        "_id" : "623e38b49c5772000964e2a9",
+        "name" : "HABITAT"
+    },
+    {
+        "_id" : "634dca314ab8e500099d3a19",
+        "name" : "HAVAS MEDIA CHILE S.A."
+    },
+    {
+        "_id" : "61e957f1245b2d00090998b1",
+        "name" : "HAVAS+"
+    },
+    {
+        "_id" : "6274191a0d68780009672ea2",
+        "name" : "HBO"
+    },
+    {
+        "_id" : "62953fcffe2c3f0009441c81",
+        "name" : "HBO"
+    },
+    {
+        "_id" : "6283da50371da80008ffddc1",
+        "name" : "HDI Seguros"
+    },
+    {
+        "_id" : "631288fd5edd660009ecbb17",
+        "name" : "HEINZ"
+    },
+    {
+        "_id" : "6377b07a312a1b0008a65744",
+        "name" : "HIPERMERCADOS TOTTUS S.A."
+    },
+    {
+        "_id" : "644abe596fb42200086619ca",
+        "name" : "HITES"
+    },
+    {
+        "_id" : "61a6a104c05306000914a742",
+        "name" : "HUAWEI"
+    },
+    {
+        "_id" : "61e219222e4af50009409207",
+        "name" : "HUAWEI CHILE S.A."
+    },
+    {
+        "_id" : "62db0f62d17a6c00098c5b1c",
+        "name" : "HYUNDAI"
+    },
+    {
+        "_id" : "638a3ebe216c4b00088ee1be",
+        "name" : "HYUNDAI"
+    },
+    {
+        "_id" : "62db1a51d7aff90009d4ba9b",
+        "name" : "HYUNDAI"
+    },
+    {
+        "_id" : "62e99a40d57c12000912b038",
+        "name" : "Haval"
+    },
+    {
+        "_id" : "6418b6d2b037660008a9ea3d",
+        "name" : "Hertz"
+    },
+    {
+        "_id" : "627c080c3ec351000999d457",
+        "name" : "Honda"
+    },
+    {
+        "_id" : "636fd9c6c69db20008d0d513",
+        "name" : "Hospital Nacional"
+    },
+    {
+        "_id" : "62db2967996dc80009d84c06",
+        "name" : "Hyundai"
+    },
+    {
+        "_id" : "64d255b1caaf72000850a5db",
+        "name" : "I - GROUP COMUNICACIÓN  PUBLICITARIA LTDA."
+    },
+    {
+        "_id" : "64551e5c91b28f00086d7cd5",
+        "name" : "I Prospect CHILE SPA"
+    },
+    {
+        "_id" : "63f65eead6f3a30008483765",
+        "name" : "I. Municipalidad de Viña del Mar"
+    },
+    {
+        "_id" : "6171ffa73c7e150009d19e3b",
+        "name" : "IBERIA"
+    },
+    {
+        "_id" : "617324d14344d80008658915",
+        "name" : "IBERIA"
+    },
+    {
+        "_id" : "61bc9fb014ca020008f9851f",
+        "name" : "IDEAL"
+    },
+    {
+        "_id" : "6064e9ce3429f10009a70591",
+        "name" : "IDEAL"
+    },
+    {
+        "_id" : "61e6f9573a743200099634f4",
+        "name" : "IMPORTADORA,COMERCIALIZADORA Y DISTRIBUIDORA ROYAL CANIN CHILE LTDA"
+    },
+    {
+        "_id" : "61020c594defac00089977a7",
+        "name" : "INCAMI"
+    },
+    {
+        "_id" : "64e61f62b36b6b000814779e",
+        "name" : "INEC"
+    },
+    {
+        "_id" : "612656d0a1cfcf0009059c12",
+        "name" : "INMOBILIARIA SINERGIA"
+    },
+    {
+        "_id" : "620275abdd279400096bf9b4",
+        "name" : "INNOVACION Y TECNOLOGIA EMPRESARIAL ITEM LTDA"
+    },
+    {
+        "_id" : "612cf2e192e98300095ee9f7",
+        "name" : "INSTITUTO NACIONAL DE DEPORTE"
+    },
+    {
+        "_id" : "64cbb4edaf93340008368c77",
+        "name" : "INTERVIAL CHILE S.A."
+    },
+    {
+        "_id" : "6316215cb9d40100099aa1f4",
+        "name" : "ISA INTERVIAL"
+    },
+    {
+        "_id" : "62d98d408954c70009ec7d8d",
+        "name" : "Iansa"
+    },
+    {
+        "_id" : "6466a7fdf765e200081ce406",
+        "name" : "Ideal"
+    },
+    {
+        "_id" : "6475287622e8dc0008cdff99",
+        "name" : "Instagames"
+    },
+    {
+        "_id" : "64b695b48b980b0008405d8c",
+        "name" : "Iprospect"
+    },
+    {
+        "_id" : "62c30e7fbb5b76000933ece3",
+        "name" : "Isapre Colmena"
+    },
+    {
+        "_id" : "64122068adbdd10008cd6c86",
+        "name" : "J&J"
+    },
+    {
+        "_id" : "63e2ad2bf7f12000089ff6a3",
+        "name" : "JACK DANIELS"
+    },
+    {
+        "_id" : "6283d9c1371da80008ffddbd",
+        "name" : "Jumbo"
+    },
+    {
+        "_id" : "641b5cf9f54289000882b157",
+        "name" : "Jumbo Cencosud"
+    },
+    {
+        "_id" : "617b1b4d5a602b0009cc7328",
+        "name" : "KFC Kentucky Fried Chicken"
+    },
+    {
+        "_id" : "61e597a81254aa0009066eee",
+        "name" : "KIDZANIA"
+    },
+    {
+        "_id" : "63052471c11a380009bc8f43",
+        "name" : "KOLA LOKA"
+    },
+    {
+        "_id" : "6320fd946205ea0009372771",
+        "name" : "KayKat Productions"
+    },
+    {
+        "_id" : "608448d358abdb00082e2db7",
+        "name" : "Kelloggs"
+    },
+    {
+        "_id" : "6283c92543b68d0009c7f36b",
+        "name" : "Kia"
+    },
+    {
+        "_id" : "60f73fe729fd210008e66fc4",
+        "name" : "Kiener"
+    },
+    {
+        "_id" : "6470c4f5f07b3e0008e7e616",
+        "name" : "Klap"
+    },
+    {
+        "_id" : "64a32afa0983790008e6c392",
+        "name" : "Kotex"
+    },
+    {
+        "_id" : "61a14c8f2a1e350009aacada",
+        "name" : "LABORATORIO MAVER S.A."
+    },
+    {
+        "_id" : "6160d244b5544e000984f001",
+        "name" : "LENTESPLUS"
+    },
+    {
+        "_id" : "6500ada6e75dfd0008f4c484",
+        "name" : "LESGUILLON LTDA"
+    },
+    {
+        "_id" : "6081ea1e32d94100082f4ff8",
+        "name" : "LEVIS"
+    },
+    {
+        "_id" : "6206e97be79d5c0009736820",
+        "name" : "LOREAL"
+    },
+    {
+        "_id" : "630549710c53330009f662e3",
+        "name" : "LOREAL CHILE S.A."
+    },
+    {
+        "_id" : "63a2719001184f0008e2ceed",
+        "name" : "LOTERIA"
+    },
+    {
+        "_id" : "63c1d6cc3ba91100071a269d",
+        "name" : "LRX"
+    },
+    {
+        "_id" : "60f85cfe316e230008c871ed",
+        "name" : "LYSOL"
+    },
+    {
+        "_id" : "6283da627c17960009c0c499",
+        "name" : "La Araucana"
+    },
+    {
+        "_id" : "6064e3f52984360008e6e07e",
+        "name" : "La Preferida"
+    },
+    {
+        "_id" : "6515855b7823b80008abc002",
+        "name" : "LaMusica Beach Festival"
+    },
+    {
+        "_id" : "64c1c12b706497000856ce48",
+        "name" : "Laboratorio Ballerina"
+    },
+    {
+        "_id" : "6331bf42e085b80009c65e05",
+        "name" : "Laboratorio Chile"
+    },
+    {
+        "_id" : "60d3b280944fc500089a6775",
+        "name" : "Laboratorio Durandin"
+    },
+    {
+        "_id" : "61c4c9c65b648b0008cb4a03",
+        "name" : "Lala"
+    },
+    {
+        "_id" : "6286b3b11d7b3a000917a9d2",
+        "name" : "Lapiz Lopez"
+    },
+    {
+        "_id" : "62fd6c0195ada0000968969e",
+        "name" : "Lipigas"
+    },
+    {
+        "_id" : "6489e3dca019920008a554e2",
+        "name" : "Liverpool"
+    },
+    {
+        "_id" : "62fe9a477545940009dad6e3",
+        "name" : "Loncoleche"
+    },
+    {
+        "_id" : "64b9a7998253c500086764bd",
+        "name" : "Loteria"
+    },
+    {
+        "_id" : "6094648190f6f5000818ad2a",
+        "name" : "MAPFRE"
+    },
+    {
+        "_id" : "63ed30e3e5bc4e0008e8823b",
+        "name" : "MARIO MEZZA"
+    },
+    {
+        "_id" : "61a59234027199000937ae1d",
+        "name" : "MEDIACOM"
+    },
+    {
+        "_id" : "6239040b10c6f70009fbc33f",
+        "name" : "MEF"
+    },
+    {
+        "_id" : "618af930dc8d4300095b9088",
+        "name" : "MERCADO LIBRE"
+    },
+    {
+        "_id" : "64907ca0d2117b00081012a0",
+        "name" : "MERCADO LIBRE"
+    },
+    {
+        "_id" : "63a1b2c7f3330c0008413b82",
+        "name" : "MERCADOLIBRE"
+    },
+    {
+        "_id" : "61ba3e4aa0febf0008f655b3",
+        "name" : "MINEDUC"
+    },
+    {
+        "_id" : "63a0b24e46ab6000084945a1",
+        "name" : "MINSAL"
+    },
+    {
+        "_id" : "60b5801c24d27f00092b1f3e",
+        "name" : "MINSAL"
+    },
+    {
+        "_id" : "64ff7a53da31b20008077932",
+        "name" : "MINUTO VERDE"
+    },
+    {
+        "_id" : "645e938947fe8e0008105448",
+        "name" : "MITSUBISHI"
+    },
+    {
+        "_id" : "61b8cd4636184300098c04dd",
+        "name" : "MMS COMMUNICATIONS CHILE S.A."
+    },
+    {
+        "_id" : "63e251254454b90008f9cc63",
+        "name" : "MMS COMUNICATION"
+    },
+    {
+        "_id" : "6286b39c1d7b3a000917a9d0",
+        "name" : "MOTA"
+    },
+    {
+        "_id" : "61683064da97450009c22ac4",
+        "name" : "MOVISTAR"
+    },
+    {
+        "_id" : "60eca9362decf80008e3af03",
+        "name" : "MOVISTAR"
+    },
+    {
+        "_id" : "621d29b60062620009f6b805",
+        "name" : "MUTUAL DE SEGURIDAD"
+    },
+    {
+        "_id" : "631a21ddd8977500091fda15",
+        "name" : "Machetazo"
+    },
+    {
+        "_id" : "629a67b79671b500094e59e8",
+        "name" : "Maconline"
+    },
+    {
+        "_id" : "62aa5dc091b309000961485a",
+        "name" : "Magister UC"
+    },
+    {
+        "_id" : "6387c61df7c457000892478f",
+        "name" : "Mall Arauco"
+    },
+    {
+        "_id" : "637e362ebb871f000812a305",
+        "name" : "Mall Plaza"
+    },
+    {
+        "_id" : "60e383672bb07600083933fb",
+        "name" : "Marketing Trends"
+    },
+    {
+        "_id" : "64a33fb90dcc470008c34bca",
+        "name" : "Martin Torrijos"
+    },
+    {
+        "_id" : "64710c43b91d5400089814ea",
+        "name" : "MasterCard"
+    },
+    {
+        "_id" : "604ba483e10ba800080ba52f",
+        "name" : "Maver / Barceló"
+    },
+    {
+        "_id" : "646f839a2f436500089695d1",
+        "name" : "Mayorista 10"
+    },
+    {
+        "_id" : "6283c9117e314e0009f94637",
+        "name" : "Mc donalds"
+    },
+    {
+        "_id" : "63ef9b0aa398320008e6d0c4",
+        "name" : "McDONALDS"
+    },
+    {
+        "_id" : "61a653242e668a0008d8332c",
+        "name" : "McDonalds"
+    },
+    {
+        "_id" : "64f26081bc252b00086f5be1",
+        "name" : "McDonalds"
+    },
+    {
+        "_id" : "642a0962dba77900089853e5",
+        "name" : "Mediastream"
+    },
+    {
+        "_id" : "617c51648db6b3000936d468",
+        "name" : "MegaMedia"
+    },
+    {
+        "_id" : "644c28fbc63df50008148ff8",
+        "name" : "Melo"
+    },
+    {
+        "_id" : "610c6c2a3e0669000974dc9e",
+        "name" : "Mendoza, Arias, Valle y Castillo"
+    },
+    {
+        "_id" : "6388e16d16315e0008c62626",
+        "name" : "Mercado Libre"
+    },
+    {
+        "_id" : "61b36c9792674a0009abc797",
+        "name" : "Metro de Panamá"
+    },
+    {
+        "_id" : "63052355c7d4cb00091775ae",
+        "name" : "Metrocarrier"
+    },
+    {
+        "_id" : "63a0b80f46ab6000084945b6",
+        "name" : "Metropolis"
+    },
+    {
+        "_id" : "61e8809781497f00093cdb8c",
+        "name" : "Mi Megáfono"
+    },
+    {
+        "_id" : "637c040b83e1840008bb98f9",
+        "name" : "Miller"
+    },
+    {
+        "_id" : "644c3bda6a6eb40008234cca",
+        "name" : "Mineduc"
+    },
+    {
+        "_id" : "62150ad05267720009e3b3c4",
+        "name" : "Minera Panamá"
+    },
+    {
+        "_id" : "61955d7985e54b00091680fe",
+        "name" : "Ministerio de las Culturas"
+    },
+    {
+        "_id" : "6286b72e1d7b3a000917a9d6",
+        "name" : "Minuto Verde"
+    },
+    {
+        "_id" : "637b968471f40f000884fbae",
+        "name" : "Mitsubishi"
+    },
+    {
+        "_id" : "62c5925db7fe6b000960c50f",
+        "name" : "Mitta"
+    },
+    {
+        "_id" : "629fc5fd7e3e000009b22ec0",
+        "name" : "Mota"
+    },
+    {
+        "_id" : "6115a99f5724660008d6c550",
+        "name" : "Motores Japoneses"
+    },
+    {
+        "_id" : "6286b472a910250009631c70",
+        "name" : "Movistar"
+    },
+    {
+        "_id" : "63bf4008652cbb00084c4cfc",
+        "name" : "Multibank"
+    },
+    {
+        "_id" : "61e59c851254aa0009066f00",
+        "name" : "Multimedios TV"
+    },
+    {
+        "_id" : "634717f778c50f0009029482",
+        "name" : "Mutual de Seguridad"
+    },
+    {
+        "_id" : "61297299417d2f00083db2da",
+        "name" : "Más Móvil"
+    },
+    {
+        "_id" : "62912ab06e5d8e000910e07b",
+        "name" : "NESTLE"
+    },
+    {
+        "_id" : "62476749bf22e200099be543",
+        "name" : "NESTLE CHILE S.A."
+    },
+    {
+        "_id" : "62880a2271eb9500090a0352",
+        "name" : "NEW CENTURY FILMS"
+    },
+    {
+        "_id" : "610214664defac00089977b6",
+        "name" : "NIKE"
+    },
+    {
+        "_id" : "64f24c68bc4e090008b142cb",
+        "name" : "NOVA"
+    },
+    {
+        "_id" : "64e3c11504ee340008d70c22",
+        "name" : "NSolar"
+    },
+    {
+        "_id" : "645ac148b647b60008493acb",
+        "name" : "Nestle"
+    },
+    {
+        "_id" : "62bde9983fe29700090a40bb",
+        "name" : "Nestlé"
+    },
+    {
+        "_id" : "64d633cb5e3e12000814a492",
+        "name" : "Netflix"
+    },
+    {
+        "_id" : "620eb4522787e90009a582fd",
+        "name" : "Nevada"
+    },
+    {
+        "_id" : "62c757b168dff20009c4946e",
+        "name" : "Nissan"
+    },
+    {
+        "_id" : "6441a3c617b9d6000868649e",
+        "name" : "Novey"
+    },
+    {
+        "_id" : "6058fe1bbd82e700083f73b3",
+        "name" : "Novo Nordisk"
+    },
+    {
+        "_id" : "61b7a814f004ad0009b9a758",
+        "name" : "OLIVETO SPA"
+    },
+    {
+        "_id" : "61b3cf529bdbf6000968a771",
+        "name" : "OMD Chile SpA"
+    },
+    {
+        "_id" : "6179afdd764c8800089f7f41",
+        "name" : "OMNICOM MEDIA GROUP CHILE S.A."
+    },
+    {
+        "_id" : "608ac4c70fceb700097b6e0a",
+        "name" : "OPPO"
+    },
+    {
+        "_id" : "64daa78160661c0008c6a364",
+        "name" : "OPS"
+    },
+    {
+        "_id" : "63115717d1eca2000993ebde",
+        "name" : "OXXO"
+    },
+    {
+        "_id" : "62865f27a6f99f00095ac563",
+        "name" : "Omo"
+    },
+    {
+        "_id" : "62c59df047eacf00094582c0",
+        "name" : "Opel"
+    },
+    {
+        "_id" : "62b4cf7563e1d8000976e839",
+        "name" : "Oppo"
+    },
+    {
+        "_id" : "63d9301f802d5100086e3a2d",
+        "name" : "P&G"
+    },
+    {
+        "_id" : "622f82704bf3180009295628",
+        "name" : "PARIS"
+    },
+    {
+        "_id" : "6183d993600a04000997e7a8",
+        "name" : "PARQUE ESTEREO"
+    },
+    {
+        "_id" : "6247804d8163ae000961a049",
+        "name" : "PEDIGREE"
+    },
+    {
+        "_id" : "60ccc6e55704160009f9730d",
+        "name" : "PEPSICO"
+    },
+    {
+        "_id" : "6476821a0953e3000881f795",
+        "name" : "PETROBRAS"
+    },
+    {
+        "_id" : "6515c5537bfe7c00081f0368",
+        "name" : "PF"
+    },
+    {
+        "_id" : "61a102c89436a9000905fdb0",
+        "name" : "PHD CHILE S.A."
+    },
+    {
+        "_id" : "61a6c906fba95f0009eca5ea",
+        "name" : "PLAN_VITAL"
+    },
+    {
+        "_id" : "623e35268348940009b7e67f",
+        "name" : "PROCTER & GAMBLE CHILE LIMITADA"
+    },
+    {
+        "_id" : "64baeeceb195290008e95588",
+        "name" : "PRODENA"
+    },
+    {
+        "_id" : "6113d9436fb21000087023b0",
+        "name" : "PRUEBA DAI"
+    },
+    {
+        "_id" : "642f1d37dcb661000805f795",
+        "name" : "PUIG"
+    },
+    {
+        "_id" : "60c41aa3f4588800099f3f25",
+        "name" : "PUMA"
+    },
+    {
+        "_id" : "6064b90a91b38a0009f9cb95",
+        "name" : "Panafoto"
+    },
+    {
+        "_id" : "631771e48b0bd40009e07ddf",
+        "name" : "Panama Music"
+    },
+    {
+        "_id" : "62ec42300b1d6900097a8fdc",
+        "name" : "Panama Ports"
+    },
+    {
+        "_id" : "64665347c0a476000878550d",
+        "name" : "Papa John's"
+    },
+    {
+        "_id" : "61800a77e894690009219785",
+        "name" : "Paradise 507"
+    },
+    {
+        "_id" : "6283d98e371da80008ffddbc",
+        "name" : "Paris"
+    },
+    {
+        "_id" : "62d05604d7550c00091fc7d8",
+        "name" : "Parque Arauco"
+    },
+    {
+        "_id" : "606e19c83fe23000082c5282",
+        "name" : "Patronato Panamá Viejo"
+    },
+    {
+        "_id" : "62cc3d55ee4fdc0009bde441",
+        "name" : "Paz Inmobiliaria"
+    },
+    {
+        "_id" : "62cc41a1a24ce200090e57ec",
+        "name" : "Paz Inmobiliaria"
+    },
+    {
+        "_id" : "6284125972d6ba0009c69bca",
+        "name" : "Pedidos YA"
+    },
+    {
+        "_id" : "649f3f98d12ba500085c5460",
+        "name" : "Pepsi"
+    },
+    {
+        "_id" : "6283db697c17960009c0c49c",
+        "name" : "Petrizzio"
+    },
+    {
+        "_id" : "625ef472ca01de0009293596",
+        "name" : "Petroautos"
+    },
+    {
+        "_id" : "625f34052ff0770009718c19",
+        "name" : "Pintuco"
+    },
+    {
+        "_id" : "6037a6a3fbefd40009cee39e",
+        "name" : "Pizza Hut / Media Interactive"
+    },
+    {
+        "_id" : "62c6f17bff5de30009d0ff43",
+        "name" : "Polla"
+    },
+    {
+        "_id" : "648b828fc028ef0008e70b12",
+        "name" : "Polla"
+    },
+    {
+        "_id" : "62e9b46be5ca36000962185c",
+        "name" : "Políticas-Apruebo"
+    },
+    {
+        "_id" : "62e2ff7d988d3c00091c5479",
+        "name" : "Políticas-Rechazo"
+    },
+    {
+        "_id" : "6202ede60b87ba0009b55a79",
+        "name" : "Presidencia"
+    },
+    {
+        "_id" : "6227821cc25b1f00091f807e",
+        "name" : "Productos Familia"
+    },
+    {
+        "_id" : "62261eaad536e30009352660",
+        "name" : "Programatic Advertiser"
+    },
+    {
+        "_id" : "6255fdc125b6570009925079",
+        "name" : "Programatic Advertiser"
+    },
+    {
+        "_id" : "6445f3b03b5c7d000842a635",
+        "name" : "Programatic Advertiser"
+    },
+    {
+        "_id" : "625dd74a32157f00097cbb8b",
+        "name" : "Programatic Advertiser"
+    },
+    {
+        "_id" : "64654f3ae40b3a0008adca6c",
+        "name" : "Programatic Advertiser"
+    },
+    {
+        "_id" : "6482383d4b7dfe0008861ec1",
+        "name" : "Programatic Advertiser"
+    },
+    {
+        "_id" : "64b6b93efc5fc100081836c2",
+        "name" : "Programatic Advertiser"
+    },
+    {
+        "_id" : "61c0c1cc63dfc300096b9189",
+        "name" : "Programatic Advertiser"
+    },
+    {
+        "_id" : "61c20e31adaf2500099a9210",
+        "name" : "Programatic Advertiser"
+    },
+    {
+        "_id" : "62f3e6d4c1650500093a4a5e",
+        "name" : "Programatic Advertiser"
+    },
+    {
+        "_id" : "61280b64f4103900092e5347",
+        "name" : "Programatic Advertiser"
+    },
+    {
+        "_id" : "61281fcd4e3b0400082501d4",
+        "name" : "Programatic Advertiser"
+    },
+    {
+        "_id" : "64ecfd69ab560e00080eeece",
+        "name" : "Programatic Advertiser"
+    },
+    {
+        "_id" : "61281ffb4e3b0400082501d5",
+        "name" : "Programatic Advertiser"
+    },
+    {
+        "_id" : "6128203e4e3b0400082501d6",
+        "name" : "Programatic Advertiser"
+    },
+    {
+        "_id" : "612820684e3b0400082501d7",
+        "name" : "Programatic Advertiser"
+    },
+    {
+        "_id" : "612820744e3b0400082501d8",
+        "name" : "Programatic Advertiser"
+    },
+    {
+        "_id" : "61290be9c39d2c000948a400",
+        "name" : "Programatic Advertiser"
+    },
+    {
+        "_id" : "63792d10a45bf20008362937",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "63792e81ae7de8000899d893",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "63792f47f6dd5d0008af07d1",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "622771f6fbb6960009318cd3",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "63792f81f6dd5d0008af07d6",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "622772754025ec0009d10d7b",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "62277570c25b1f00091f8073",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "62277b46c25b1f00091f8079",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "646e62898f2f8e00082997d7",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "6446e78721a7c80008bd86a0",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "64f75b33f5aba9000847f059",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "63987f26b94cf50008cdc207",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "63987f513f153300097a4ea8",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "6445f4b23b5c7d000842a639",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "642a099eabc21100081208cb",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "616f634ef8f8c2000936f801",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "63b5eb9fb017dd0008890459",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "63b5ebc9b017dd000889045e",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "63b5ed1ab017dd0008890464",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "63b5ee315c59a00008753278",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "6477b2151a47240008bca143",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "63b6d20f1646f40008a57e83",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "64908a4eff857d0008108889",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "6256049ba165c90009695cfc",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "625604c3eb3edf0009afa6b6",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "62560583eb3edf0009afa6ca",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "64cd131dee25f90009f6e3ac",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "63ee7bb538774300089859ee",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "63ee7c5838774300089859f4",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "651457b5088aca0008d76c13",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "65144db047174c000891162b",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "627414480d68780009672e95",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "6446e76377ccd50008064e9b",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "6283c7f643b68d0009c7f363",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "64b04e0da79a3300074b3e1b",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "61971cef4da04c0009f9c7ba",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "6197ffd77e51ea0008520dab",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "64469c2090a1cd0008156f80",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "6412202eadbdd10008cd6c82",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "64b6ba1dfc5fc100081836c4",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "648239b04b7dfe0008861ec4",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "629a2a40c5d80d000960a4c9",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "61b27447bc29830009a5c727",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "61b274afbc29830009a5c72a",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "62714bebd117c500091efaa0",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "6408d1be4b4e780007dc07c6",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "61c0c2df1bae3f0009b75b91",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "61c0c8b62ba86b0009f01a9b",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "62d1d8d5a11ca70009ae34ae",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "61c0c962e1aec2000917a7eb",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "61c20eeee703320009390a49",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "6464fea4acc714000801fe96",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "62f3e7a933cedf00090de775",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "6446e6ab77ccd50008064e96",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "6319f7e388ad410009133f3b",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "64f72e2ec470a8000875b072",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "63407a6f707ff10009ce471f",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "6346ccfba3337700096ae83b",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "634996c7b1029700099f4a2c",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "63aed416e61237000803f36b",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "6351b689e0fb720009d0f65a",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "620a691e852cfb0009adecb8",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "64b04f39a79a3300074b3e20",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "620a693d852cfb0009adecbe",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "635c2f7c51e5c500089cccbe",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "63b5edb45c59a00008753273",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "64ed004c92eaa90008d73a63",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "6464fe182bbb380008f7afa6",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "6408d5534b4e780007dc07d0",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "6408d5ef4b4e780007dc07d6",
+        "name" : "Programatic advertiser (Deals)"
+    },
+    {
+        "_id" : "645e7e0f07d47200071d6ff9",
+        "name" : "Promolac"
+    },
+    {
+        "_id" : "64e52dfb14ce9700089c740b",
+        "name" : "Prueba"
+    },
+    {
+        "_id" : "6036bcb12408610008e06ad0",
+        "name" : "Prueba"
+    },
+    {
+        "_id" : "63ee7c8838774300089859f9",
+        "name" : "Pruebas_16-02-2023"
+    },
+    {
+        "_id" : "63f50683a324100008f367ec",
+        "name" : "Pruebas_VTR_CL"
+    },
+    {
+        "_id" : "64daa3c860661c0008c6a361",
+        "name" : "Puma Latam"
+    },
+    {
+        "_id" : "6286b3cca910250009631c64",
+        "name" : "Puntos Cencosud"
+    },
+    {
+        "_id" : "61a8e1a4d5157800099f7b3a",
+        "name" : "REGIMEL"
+    },
+    {
+        "_id" : "617c4e48d92e410008768f93",
+        "name" : "RENDIC HERMANOS S.A."
+    },
+    {
+        "_id" : "619419cb96e7860008c6a24e",
+        "name" : "RIPLEY"
+    },
+    {
+        "_id" : "6138dc1019c18f0009e7b119",
+        "name" : "RIPLEY"
+    },
+    {
+        "_id" : "61ba0131a52b09000850afc6",
+        "name" : "ROSEN"
+    },
+    {
+        "_id" : "63ff7fdd4469b700092a6a8a",
+        "name" : "ROSEN"
+    },
+    {
+        "_id" : "6111569745a4690008faa4a0",
+        "name" : "ROYAL_CANIN"
+    },
+    {
+        "_id" : "6362a276f160130008da0a8d",
+        "name" : "RPC"
+    },
+    {
+        "_id" : "6283d9797c17960009c0c496",
+        "name" : "RRFF Cencosud"
+    },
+    {
+        "_id" : "64cd10cb8d9262000854e164",
+        "name" : "Reckitt Benckiser"
+    },
+    {
+        "_id" : "64fa4886897d7000084607ec",
+        "name" : "Red Cross"
+    },
+    {
+        "_id" : "6286b3d4a910250009631c66",
+        "name" : "Redelcom"
+    },
+    {
+        "_id" : "62e7e2469d49ce0009caff1b",
+        "name" : "Redelcom"
+    },
+    {
+        "_id" : "62865f820f9c7b0009eb453f",
+        "name" : "Rexona"
+    },
+    {
+        "_id" : "631136a42eb85a0009c58873",
+        "name" : "Toyota"
+    },
+    {
+        "_id" : "609ac08c42086d0008bab109",
+        "name" : "Toyota"
+    },
+    {
+        "_id" : "62855e0f69a51400099bab14",
+        "name" : "Ripley"
+    },
+    {
+        "_id" : "6155c83ba35a4100082304d9",
+        "name" : "Ripley"
+    },
+    {
+        "_id" : "61086603cc1c130008234ac0",
+        "name" : "Rola"
+    },
+    {
+        "_id" : "62ea70ba9035be00095238f7",
+        "name" : "Rosen"
+    },
+    {
+        "_id" : "630e7b621b8d010009ca8fbf",
+        "name" : "Rostros Publicidad"
+    },
+    {
+        "_id" : "638fbbcc613c470008dd000f",
+        "name" : "Rushbet Colombia"
+    },
+    {
+        "_id" : "628bcfb3e49c8f0009739c66",
+        "name" : "Rushbet Colombia"
+    },
+    {
+        "_id" : "6412054cd9d20f0008273636",
+        "name" : "Rushbet México"
+    },
+    {
+        "_id" : "64df798bc5676b00089ccde6",
+        "name" : "SAESA S.A"
+    },
+    {
+        "_id" : "63ad8dc40ce98300088c527d",
+        "name" : "SALCOBRAND"
+    },
+    {
+        "_id" : "6294f2d4a1f17500095f5b29",
+        "name" : "SALCOBRAND S.A."
+    },
+    {
+        "_id" : "60c7bd13113821000872f686",
+        "name" : "SAMSUNG"
+    },
+    {
+        "_id" : "621782e9bb30dc00092975df",
+        "name" : "SAMSUNG"
+    },
+    {
+        "_id" : "64f8932b2dc9b1000825a103",
+        "name" : "SAMSUNG"
+    },
+    {
+        "_id" : "60c24b5b50336200087c8962",
+        "name" : "SANTA ISABEL"
+    },
+    {
+        "_id" : "6445f45d3b5c7d000842a636",
+        "name" : "SBS House"
+    },
+    {
+        "_id" : "61fc10fc787cb400091992f6",
+        "name" : "SERNATUR"
+    },
+    {
+        "_id" : "641c7d21420e0100080672e7",
+        "name" : "SERVIPAG"
+    },
+    {
+        "_id" : "626041680ed70e000938a0f5",
+        "name" : "SHELL"
+    },
+    {
+        "_id" : "62603224e663130009bda4b3",
+        "name" : "SHELL / EMPRESA NACIONAL DE ENERGIA ENEX S.A."
+    },
+    {
+        "_id" : "6467d55bcc9b020008f5575a",
+        "name" : "SIKA"
+    },
+    {
+        "_id" : "60d4de952eeb5d0008595480",
+        "name" : "SIMONDS"
+    },
+    {
+        "_id" : "6283d9d2371da80008ffddbe",
+        "name" : "SISA"
+    },
+    {
+        "_id" : "62f17001ebcf8c000990c5d6",
+        "name" : "SKECHERS"
+    },
+    {
+        "_id" : "6064e4532984360008e6e082",
+        "name" : "SKY"
+    },
+    {
+        "_id" : "625895a302fc2a000917782b",
+        "name" : "SKY"
+    },
+    {
+        "_id" : "6321199e9e64ed00096e9eda",
+        "name" : "SKY"
+    },
+    {
+        "_id" : "61a137fa39531a00082cada2",
+        "name" : "SKY AIRLINE S.A."
+    },
+    {
+        "_id" : "64767dbb0953e3000881f793",
+        "name" : "SOCIEDAD COMERCIAL CENTRO TURISTICO MELIPEUCO LTDA"
+    },
+    {
+        "_id" : "60d93cbf0ed1330008f2614b",
+        "name" : "SODIMAC"
+    },
+    {
+        "_id" : "6102157f4defac00089977bd",
+        "name" : "SPARTA"
+    },
+    {
+        "_id" : "62d5e9b657dfdb000932d12b",
+        "name" : "SPID"
+    },
+    {
+        "_id" : "62bdccf9fc6e220009e71687",
+        "name" : "SQM"
+    },
+    {
+        "_id" : "6447f34b1e30ab00082463ac",
+        "name" : "SQM LITIO"
+    },
+    {
+        "_id" : "63b86de2f8bae40007b9df29",
+        "name" : "SUBARU"
+    },
+    {
+        "_id" : "64d3c2317f777f0008835429",
+        "name" : "SUBWAY"
+    },
+    {
+        "_id" : "645bd4c26223000008474d7b",
+        "name" : "SURA"
+    },
+    {
+        "_id" : "6435d2b85de0950008fb37a1",
+        "name" : "SWISSNATURELABS"
+    },
+    {
+        "_id" : "61e1fadd0edc390009720db5",
+        "name" : "Sal La Fina"
+    },
+    {
+        "_id" : "62bf737166af7900098bb701",
+        "name" : "Salazar-Israel"
+    },
+    {
+        "_id" : "632e23f94dc22200092f980c",
+        "name" : "Samsung"
+    },
+    {
+        "_id" : "60995da1356caf0008252ae4",
+        "name" : "Sanofi"
+    },
+    {
+        "_id" : "64b96bdb43efe90008bf7684",
+        "name" : "Santa Rita"
+    },
+    {
+        "_id" : "6064e4492984360008e6e081",
+        "name" : "Santander"
+    },
+    {
+        "_id" : "64872411eff3fa000894dd25",
+        "name" : "Saxoline"
+    },
+    {
+        "_id" : "63161728599360000908d474",
+        "name" : "Seguros Atlas"
+    },
+    {
+        "_id" : "610097974c28230009263bda",
+        "name" : "Senacyt"
+    },
+    {
+        "_id" : "62c8ba7b6b81d80009a2eddb",
+        "name" : "Servipag"
+    },
+    {
+        "_id" : "64960711a8d0da00084b3b07",
+        "name" : "Shell"
+    },
+    {
+        "_id" : "6283db897c17960009c0c49d",
+        "name" : "Shopping Cencosud"
+    },
+    {
+        "_id" : "63814789857f580008d36d75",
+        "name" : "Sitel"
+    },
+    {
+        "_id" : "6349f4224935a50009c9625e",
+        "name" : "Skechers"
+    },
+    {
+        "_id" : "641b3a83f30e9d0009f7127c",
+        "name" : "Social Media Week"
+    },
+    {
+        "_id" : "64496d1db2e49500082eeeaa",
+        "name" : "Social Saca Producciones"
+    },
+    {
+        "_id" : "62a27b4c1982ad00085dc078",
+        "name" : "Sodimac"
+    },
+    {
+        "_id" : "64d6da8913a512000872d4c7",
+        "name" : "Sodimac"
+    },
+    {
+        "_id" : "6286b7c61d7b3a000917a9d8",
+        "name" : "Soquimich"
+    },
+    {
+        "_id" : "64de58579d165d0008091521",
+        "name" : "SouthEast Toyota Distrbutors"
+    },
+    {
+        "_id" : "63ec0f5429df6d0008866e1e",
+        "name" : "SoyMomo"
+    },
+    {
+        "_id" : "635c311bfcd9490008b444c9",
+        "name" : "Splenda"
+    },
+    {
+        "_id" : "635c3140fcd9490008b444cb",
+        "name" : "Splenda"
+    },
+    {
+        "_id" : "638122e067b48100087ea7dd",
+        "name" : "Sportium"
+    },
+    {
+        "_id" : "6283da95371da80008ffddc3",
+        "name" : "Starken"
+    },
+    {
+        "_id" : "6377fd780a3d52000809f00a",
+        "name" : "Starplay"
+    },
+    {
+        "_id" : "64ac61ac2bde010008bae8fc",
+        "name" : "Stoic Media"
+    },
+    {
+        "_id" : "6286b3efa910250009631c68",
+        "name" : "Subway"
+    },
+    {
+        "_id" : "60ee15cece71f60008c15a51",
+        "name" : "Super 99"
+    },
+    {
+        "_id" : "63c1847d9a1266000856ad4d",
+        "name" : "Supermercado Rey"
+    },
+    {
+        "_id" : "6452c1f3d72bb800085ecfa4",
+        "name" : "Swiss Lab"
+    },
+    {
+        "_id" : "64de31e3a09a5f00089ecb24",
+        "name" : "TEAM CHILE"
+    },
+    {
+        "_id" : "637e7f2c9d879b0009d3e5a4",
+        "name" : "TELEPIZZA"
+    },
+    {
+        "_id" : "6228f707fe89650009a76784",
+        "name" : "TIVENDO"
+    },
+    {
+        "_id" : "620d363b02383b0009af1342",
+        "name" : "TNT"
+    },
+    {
+        "_id" : "620586274992e600093fe1a2",
+        "name" : "TNT SPORT"
+    },
+    {
+        "_id" : "623246bdab2b030009ee3df2",
+        "name" : "TOTAL ABOGADOS"
+    },
+    {
+        "_id" : "636557d21b62d6000884a8fa",
+        "name" : "TOTTUS"
+    },
+    {
+        "_id" : "61255081ed6d500008714ec3",
+        "name" : "TOYOTA"
+    },
+    {
+        "_id" : "620178d0ff30e80009725bb2",
+        "name" : "TOYOTA S.A"
+    },
+    {
+        "_id" : "624ca1beba730900098a7906",
+        "name" : "TRANSBANK"
+    },
+    {
+        "_id" : "624df5c5ac0dd500095a7a01",
+        "name" : "TRANSBANK"
+    },
+    {
+        "_id" : "61858b33a090ef00083d0a6b",
+        "name" : "TRANSBANK S.A."
+    },
+    {
+        "_id" : "622a63f401016d0009e66e31",
+        "name" : "TRIBAL"
+    },
+    {
+        "_id" : "6092a13ef81bea000949d0c3",
+        "name" : "TRICOT"
+    },
+    {
+        "_id" : "61a1044341a44300095466e4",
+        "name" : "TRICOT S.A."
+    },
+    {
+        "_id" : "604d23b98433360008adff91",
+        "name" : "TVN"
+    },
+    {
+        "_id" : "61a01ef49316b400097fe9cb",
+        "name" : "TWO Marketing"
+    },
+    {
+        "_id" : "625460786a88690009a2974a",
+        "name" : "Tamayo Records"
+    },
+    {
+        "_id" : "63868bacc7504e0008eece35",
+        "name" : "Tambor"
+    },
+    {
+        "_id" : "6283c9817e314e0009f94639",
+        "name" : "Tarjetas Cencosud"
+    },
+    {
+        "_id" : "638a163583289a0008c4f56e",
+        "name" : "Tattersall"
+    },
+    {
+        "_id" : "61fb071aacfbdf00096e8d63",
+        "name" : "Telcel"
+    },
+    {
+        "_id" : "60391622b9091a0009dd4f0c",
+        "name" : "Telefónica / Forward"
+    },
+    {
+        "_id" : "621fe9000c6b7a00093be2d2",
+        "name" : "Telemetro"
+    },
+    {
+        "_id" : "61c23f27b04a4a0008754d74",
+        "name" : "Teleprevisión"
+    },
+    {
+        "_id" : "60de42d9ca74630008079e21",
+        "name" : "Telered"
+    },
+    {
+        "_id" : "617c51fe8db6b3000936d469",
+        "name" : "Teleton"
+    },
+    {
+        "_id" : "628660050f9c7b0009eb4543",
+        "name" : "Telsur"
+    },
+    {
+        "_id" : "6217dfa84da01a0009ce6dd9",
+        "name" : "Tenpo"
+    },
+    {
+        "_id" : "62cdf1c059b32a0009437407",
+        "name" : "Tenpo"
+    },
+    {
+        "_id" : "64f62b90637cfe0008cd77d6",
+        "name" : "Thrifty"
+    },
+    {
+        "_id" : "64fb7963ac023f0008b2c83c",
+        "name" : "Ticketplus"
+    },
+    {
+        "_id" : "6169f439c046010009d24042",
+        "name" : "Tigo"
+    },
+    {
+        "_id" : "650af6126928b400084f3d2d",
+        "name" : "TonyBet"
+    },
+    {
+        "_id" : "63f7e288bc0e32000745e119",
+        "name" : "Tottus"
+    },
+    {
+        "_id" : "63ecf06f4b577700081506d6",
+        "name" : "Toyota"
+    },
+    {
+        "_id" : "6446e9cc7f1e770009bc07de",
+        "name" : "Toyota"
+    },
+    {
+        "_id" : "627e9353a4ceed0009aaec21",
+        "name" : "Transbank"
+    },
+    {
+        "_id" : "63974dc5efa0950008bb04a2",
+        "name" : "Transbank"
+    },
+    {
+        "_id" : "62b4e73e3d151d0009e9f799",
+        "name" : "Trendy"
+    },
+    {
+        "_id" : "63810cb151fa530008244a4b",
+        "name" : "Tribunal Electoral"
+    },
+    {
+        "_id" : "6286b485a910250009631c72",
+        "name" : "Tricot"
+    },
+    {
+        "_id" : "63e17e1ab8ba010008f11907",
+        "name" : "Tricot"
+    },
+    {
+        "_id" : "6037a6bafbefd40009cee39f",
+        "name" : "Tricot / Havas"
+    },
+    {
+        "_id" : "63a0752ceee75e0008c50e16",
+        "name" : "Tucapel"
+    },
+    {
+        "_id" : "64b6ba60fc5fc100081836c9",
+        "name" : "Tvn Panama"
+    },
+    {
+        "_id" : "6480b5ce51bc7c000879db17",
+        "name" : "UC"
+    },
+    {
+        "_id" : "63f77b9bea89c70008062fb2",
+        "name" : "UC Christus"
+    },
+    {
+        "_id" : "6359adb565c47200097c878e",
+        "name" : "UDI"
+    },
+    {
+        "_id" : "6436d2735da52f0008da4fa8",
+        "name" : "UNAB"
+    },
+    {
+        "_id" : "6303dcaa39c180000965a144",
+        "name" : "UNICEF"
+    },
+    {
+        "_id" : "62388ccfd3fc46000928bee5",
+        "name" : "UNILEVER"
+    },
+    {
+        "_id" : "61d6f155687a440009b52c1e",
+        "name" : "UNILEVER CHILE  LIMITADA"
+    },
+    {
+        "_id" : "61ead547b7d96100097b4dfd",
+        "name" : "UNIMARC"
+    },
+    {
+        "_id" : "62212aca39989000090904cf",
+        "name" : "UNIMARC"
+    },
+    {
+        "_id" : "6179b197764c8800089f7f4f",
+        "name" : "UNIVERSAL MCCANN SERVICIOS DE MEDIOS LIMITADA 77.431.280-3"
+    },
+    {
+        "_id" : "6381333e12771000085efaa6",
+        "name" : "UNIVERSIDAD SAN SEBASTIAN"
+    },
+    {
+        "_id" : "638137acfe33180008cbc528",
+        "name" : "UNIVERSIDAD SANTO TOMAS"
+    },
+    {
+        "_id" : "638f6fd5d5b1ed00089eb0df",
+        "name" : "UPDIGITAL"
+    },
+    {
+        "_id" : "6318d8d1f1fcfe0008ef12d6",
+        "name" : "UTEM"
+    },
+    {
+        "_id" : "63223843e3472a00098cb024",
+        "name" : "Unicef"
+    },
+    {
+        "_id" : "62992b4758d65b00091dd7f2",
+        "name" : "Unilever"
+    },
+    {
+        "_id" : "64133d60d78d3300084f0fcb",
+        "name" : "Unimarc"
+    },
+    {
+        "_id" : "6317670d1ab7bc00096feb10",
+        "name" : "Unired"
+    },
+    {
+        "_id" : "6283c94243b68d0009c7f36c",
+        "name" : "Universidad Central"
+    },
+    {
+        "_id" : "6390d076f9da4a00081fb4a0",
+        "name" : "Universidad San Sebastian"
+    },
+    {
+        "_id" : "60fb2f16eb78b30009bd56b2",
+        "name" : "VALDIVIESO"
+    },
+    {
+        "_id" : "611bc96a0fe5200008d66deb",
+        "name" : "VITAMINA"
+    },
+    {
+        "_id" : "624cc2fbe820120009d7e1ee",
+        "name" : "VOLKSWAGEN"
+    },
+    {
+        "_id" : "638a3e17035eab0008e0d91f",
+        "name" : "Valdivieso"
+    },
+    {
+        "_id" : "632a124703369300096b7f9a",
+        "name" : "Van Gogh Panamá"
+    },
+    {
+        "_id" : "628fb4b14551490009fc62a1",
+        "name" : "Ventis"
+    },
+    {
+        "_id" : "6335adaa7b794500098b9799",
+        "name" : "Ventis"
+    },
+    {
+        "_id" : "6398fde8327df70008346046",
+        "name" : "Viajes Anita"
+    },
+    {
+        "_id" : "639ca6d1e3a42c0008740b91",
+        "name" : "Vilay"
+    },
+    {
+        "_id" : "6283c9687e314e0009f94638",
+        "name" : "Virutex"
+    },
+    {
+        "_id" : "64ad7705a8e68000083a320a",
+        "name" : "Viña Conosur"
+    },
+    {
+        "_id" : "62969e7fe130e100095f87ce",
+        "name" : "Viña Vik"
+    },
+    {
+        "_id" : "62865fd8a6f99f00095ac565",
+        "name" : "Volkswagen"
+    },
+    {
+        "_id" : "61bcf094a68a460008ebc2bc",
+        "name" : "WARNER"
+    },
+    {
+        "_id" : "61bcf8210f0423000975dd6d",
+        "name" : "WARNER"
+    },
+    {
+        "_id" : "6064ee3142d96100089856d3",
+        "name" : "WATTS"
+    },
+    {
+        "_id" : "611569f06db25500091bc86f",
+        "name" : "WATTS"
+    },
+    {
+        "_id" : "63da8222bb42e20008bcf23e",
+        "name" : "WATTS"
+    },
+    {
+        "_id" : "61a1010143c33c0009d2851e",
+        "name" : "WATTS S.A."
+    },
+    {
+        "_id" : "61675225e1703f0009226e25",
+        "name" : "WOM"
+    },
+    {
+        "_id" : "605a9960dbce990008a5766d",
+        "name" : "WOM / Universal"
+    },
+    {
+        "_id" : "61a1638b2cacc600097b8bbf",
+        "name" : "WOM S.A."
+    },
+    {
+        "_id" : "615e06e748ef7500098c1245",
+        "name" : "Walmart"
+    },
+    {
+        "_id" : "6283c8f943b68d0009c7f36a",
+        "name" : "Walmart"
+    },
+    {
+        "_id" : "6286b45ea910250009631c6e",
+        "name" : "Watts"
+    },
+    {
+        "_id" : "6058fdb0bd82e700083f73b1",
+        "name" : "Watt´s / Havas"
+    },
+    {
+        "_id" : "64f25bf128b8cf0008cc631e",
+        "name" : "West Colonial Auto Inc"
+    },
+    {
+        "_id" : "64f25964b9b8e100085ea534",
+        "name" : "WindMar Home"
+    },
+    {
+        "_id" : "61a78319357350000923041b",
+        "name" : "XIAOMI"
+    },
+    {
+        "_id" : "6269892ac04dc30009bfec18",
+        "name" : "YAPO"
+    },
+    {
+        "_id" : "609ad7048b1f4a00093d8524",
+        "name" : "coca cola"
+    },
+    {
+        "_id" : "62b4bbc592e8760009f43b44",
+        "name" : "gobierno"
+    },
+    {
+        "_id" : "6233bde92c5e8a00091a9cf0",
+        "name" : "inova"
+    },
+    {
+        "_id" : "620a6f5f19c77e0009f9655a",
+        "name" : "maconline"
+    },
+    {
+        "_id" : "6351b6dfe0fb720009d0f65d",
+        "name" : "mediastream"
+    },
+    {
+        "_id" : "62bf56c43c00a70009496251",
+        "name" : "skechers"
+    },
+    {
+        "_id" : "61c0d1db7654e20008df34ae",
+        "name" : "test"
+    },
+    {
+        "_id" : "62f3e9047e53800009c4d33e",
+        "name" : "test teleformula"
+    },
+    {
+        "_id" : "61b1fb66316d75000898118b",
+        "name" : "test_0912"
+    },
+    {
+        "_id" : "632d0235d2bd740009dc9d07",
+        "name" : "test_2209"
+    },
+    {
+        "_id" : "60c75b4afecede00094bcbc3",
+        "name" : "test_advertisement"
+    },
+    {
+        "_id" : "6258930202fc2a000917782a",
+        "name" : "test_prod_14_04"
+    },
+    {
+        "_id" : "62714c09d117c500091efaa6",
+        "name" : "test_video_0503"
+    }    
+]
